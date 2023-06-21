@@ -3,7 +3,7 @@
 	min_approval = loyal
 	
 	modifier = {
-		state_birth_rate_mult = 0.025
+		state_clergymen_investment_pool_efficiency_mult = 0.1
 	}
 }
 
