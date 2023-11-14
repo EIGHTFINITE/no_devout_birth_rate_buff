@@ -3,6 +3,6 @@
 	min_approval = loyal
 	
 	modifier = {
-		state_birth_rate_mult = 0.025
+		state_loyalists_from_sol_change_mult = 0.1
 	}
 }
